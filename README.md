@@ -13,3 +13,8 @@ The gate is managed by college guards who are responsible for monitoring the bio
 - We could also use the simulations to optimise the system by tweaking the parameters and variables to find the best possible configuration.
 
 
+## Output
+![Image Alt text](/C:Users/vidus/OneDrive/Pictures/Screenshots/Screenshot 2024-02-28 162139.png
+
+![Image Alt text](//C:Users/vidus/OneDrive/Pictures/Screenshots/Screenshot 2024-02-28 162139.png "Output"))
+
